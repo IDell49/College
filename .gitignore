@@ -1,4 +1,10 @@
+#find . -size +100M | cat >> .gitignore
 4th*Semester/ING*AGUs
 3rd*Semester/Fundamentos*de*Organizacion*de*Datos/FOD
 .DS_Store
 3rd*Semester/Fundamentos*de*Organizacion*de*Datos/devpas192
+3rd*Semester/Fundamentos*de*Organizacion*de*Datos/Teorias*FOD/clase*6**PARTE2.pptx
+3rd*Semester/Fundamentos*de*Organizacion*de*Datos/Teorias*FOD/clase*7.pptx
+3rd*Semester/Fundamentos*de*Organizacion*de*Datos/Teorias*FOD/clase*7*parte*2.pptx
+3rd*Semester/Fundamentos*de*Organizacion*de*Datos/Teorias*FOD/clase*6**PARTE3.pptx
+3rd*Semester/Fundamentos*de*Organizacion*de*Datos/Teorias*FOD/clase*6**PARTE1.pptx
